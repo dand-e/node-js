@@ -1,5 +1,5 @@
 {
-  "name": "pergunta-resposta-nodejs",
+  "name": "usuario-nodejs",
   "version": "1.0.0",
   "description": "Pacote para testar o funcionamento do NPM.",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dand-e/hello-node.git"
+    "url": "git+https://github.com/dand-e/node-js.git"
   },
   "keywords": [
     "url",
@@ -18,9 +18,9 @@
   "author": "Dan Vi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dand-e/hello-node/issues"
+    "url": "https://github.com/dand-e/node-js/issues"
   },
-  "homepage": "https://github.com/dand-e/hello-node#readme",
+  "homepage": "https://github.com/dand-e/node-js#readme",
   "dependencies": {
     "query-string": "^7.1.1"
   }
